@@ -1,0 +1,10 @@
+.topButtonKey {
+  width: 25%;
+}
+.commonButton {
+  padding: 30px 20px 30px 20px;
+  font-size: 25px;
+  background-color: transparent;
+  outline: 0;
+  color: white;
+}
